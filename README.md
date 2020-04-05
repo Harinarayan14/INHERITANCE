@@ -1,0 +1,2 @@
+# INHERITANCE
+C25
